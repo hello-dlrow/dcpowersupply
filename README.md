@@ -4,7 +4,8 @@ This is a DC Power Supply with 3 Voltage options
 - -12V DC Voltage
 - 1.3V~17.5V DC Voltage
 
-<img src="https://github.com/hello-dlrow/dcpowersupply/assets/57829358/bd90bad7-c6f0-4404-90f0-fdbf34da288b", height="auto">
+<img src="[image.jpg](https://github.com/hello-dlrow/dcpowersupply/assets/57829358/bd90bad7-c6f0-4404-90f0-fdbf34da288b)" width="300" height="200">
+
 
 
 We use
