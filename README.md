@@ -8,7 +8,7 @@ This is a DC Power Supply with 3 Voltage options
 
 
 
-Using a transformer to step down 110V power to 33V AC, then rectify the AC voltage with a bridge rectifier.Then use an RC circuit for low-pass filtering to input the filtered voltage into the rectifier.
+Using a transformer to step down 110V power to 33V AC, then rectify the AC voltage with a bridge rectifier.Then use an RC circuit for low-pass filtering to input the filtered voltage into the regulator.
 
 Regulator Maxium Input voltage range:
 - LM7805(5V output):5V
