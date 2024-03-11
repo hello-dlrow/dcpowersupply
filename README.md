@@ -8,7 +8,7 @@ This is a DC Power Supply with 3 Voltage options
 
 
 
-Using a transformer to step down 110V power to 33V AC, then rectify the AC voltage with a bridge rectifier.Then use an decoupling capacitors to input the filtered voltage into the regulator, 10ohms for voltage divider, because rated volatage of LM7805 is much lower.
+Using a transformer to step down 110V power to 33V AC, then rectify the AC voltage with a bridge rectifier.Then use an decoupling capacitors to input the filtered voltage into the regulator. 10ohms for voltage divider, because rated volatage of LM7805 is much lower.
 
 Regulator Maxium Input voltage range:
 - LM7805(5V output):5V
